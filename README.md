@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @VinayakGriffin
+- 🤩 I beleive "THE BEST VIEW COMES AFTER THE HARDEST CLIMB, LET'S GO CLIMB..."
 - 👀 I’m interested in Computer Science, Software Development, Helping Others...
 - 🌱 I’m currently learning Python : Through 100 Days of Code....
 - 💞️ I’m looking to collaborate on My Projects, My Learning...
@@ -9,3 +10,4 @@
 VinayakGriffin/VinayakGriffin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
